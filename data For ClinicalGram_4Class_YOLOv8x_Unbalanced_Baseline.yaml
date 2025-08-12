@@ -1,0 +1,11 @@
+names:
+- negative_cocci
+- positive_cocci
+- negative_bacilli
+- positive_bacilli
+nc: 4
+path: /home/siu856582712/Documents/dataset/clinical_datset/last_clinical_DS/orginal
+test: test/images
+train: train/images
+val: valid/images
+

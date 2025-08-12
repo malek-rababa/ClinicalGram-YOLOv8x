@@ -1,0 +1,5 @@
+path: /home/siu856582712/Documents/dataset/dataset/Allaugs
+train: train/images
+val: val/images
+test: test/images
+names: ['neg_cocci', 'pos_cocci', 'neg_bacilli', 'pos_bacilli']
