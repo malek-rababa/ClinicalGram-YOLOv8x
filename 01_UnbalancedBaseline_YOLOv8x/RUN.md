@@ -1,7 +1,7 @@
 # RUN — Unbalanced Baseline (YOLOv8x)
 
 **Date:** 2025-08-12  
-**Commit:** <fc6cca5>  
+**Commit:** fc6cca5  
 **Notebook:** notebooks/ClinicalGram_4Class_YOLOv8x_Unbalanced_Baseline.ipynb  
 **Data:** data/data.yaml (authors’ original 7:2:1 split; unbalanced)  
 **Hardware:** 1× A6000 (device=1) • imgsz=640 • batch=16
