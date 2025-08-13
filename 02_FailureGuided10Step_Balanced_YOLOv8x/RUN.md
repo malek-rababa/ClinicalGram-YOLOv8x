@@ -1,7 +1,7 @@
 # RUN — Failure-Guided 10-Step (Balanced, AllAugs, YOLOv8x)
 
 **Date:** 2025-08-12  
-**Commit:** <paste 7-char hash after you commit files>  
+**Commit:** <fc6cca5>  
 **Notebook:** notebooks/YOLOv8x_ClinicalGram_Balanced_AllAugs_Pipeline.ipynb  
 **Data:** data/data.yaml  (balanced split)  
 **Hardware:** 1× A6000 (device=1) • imgsz=640 • batch=16
